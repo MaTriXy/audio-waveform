@@ -1,4 +1,4 @@
-# audio-waveform (for Android)
+# audio-waveform (for Android)[No longer Support]
 --------------------------
 ##What
 #####Show audio file's <strong>waveform</strong>, not spectrum.
